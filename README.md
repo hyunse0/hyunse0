@@ -15,5 +15,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/datastudies_/)](https://www.instagram.com/datastudies_/) 
 
 ## :zap: Skill
-<img src="https://img.shields.io.badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/">
-<img src="https://img.shields.io.badge/R-276dc3?style=flat-square&logo=R&logoColor=white&link=https://www.r-project.org/">
+[![Python Badge](https://img.shields.io.badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
+[![R Badge](https://img.shields.io.badge/R-276dc3?style=flat-square&logo=R&logoColor=white&link=https://www.r-project.org/)](https://www.r-project.org/)
