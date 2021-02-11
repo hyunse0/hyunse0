@@ -19,4 +19,4 @@
 [![R Badge](https://img.shields.io.badge/R-276dc3?style=flat-square&logo=R&logoColor=white&link=https://www.r-project.org/)](https://www.r-project.org/)
 
 ##
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=hyunse0&show_icons=true)]
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hyunse0&show_icons=true)
