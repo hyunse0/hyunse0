@@ -12,12 +12,12 @@
 - Data Visualization
 - Stastics
 
+## :zap: Tech Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/hyunse0"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white&link=https://github.com/hyunse0">
+
 ## :speech_balloon: Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hhs28166139@gmail.com)](mailto:hhs28166139@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/datastudies_/)](https://www.instagram.com/datastudies_/) 
-
-## :zap: Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/hyunse0"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white&link=https://github.com/hyunse0">
 
 ##
 <p align="center">
