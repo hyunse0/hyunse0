@@ -17,3 +17,6 @@
 ## :zap: Skill
 [![Python Badge](https://img.shields.io.badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
 [![R Badge](https://img.shields.io.badge/R-276dc3?style=flat-square&logo=R&logoColor=white&link=https://www.r-project.org/)](https://www.r-project.org/)
+
+##
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=hyunse0&show_icons=true)]
