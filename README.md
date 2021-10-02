@@ -6,8 +6,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=GitHub Sponsors&logoColor=white">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white">
+  <a href="https://hyunse0.tistory.com/">
+    <img src="https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=GitHub Sponsors&logoColor=white">
+  </a>
+  <a href="hhs28166139@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
 </p>
 
 <br>
