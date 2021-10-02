@@ -29,11 +29,6 @@
 
 <br>
 
-<h3 align="center"><b>***</b></h3>
-
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkgustj">
-    <br>
-    <br>
-	<img src="https://github-readme-stats.vercel.app/api?username=hyunse0&show_icons=true&title_color=BA55D3&icon_color=DDA0DD">
 </p>
