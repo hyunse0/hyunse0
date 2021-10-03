@@ -2,7 +2,7 @@
 
 <h3 align="center"><b>Hi there!</b></h3>
 <p align="center">
-  I'm interested in Data Science, Machin Learning, Web Programming.
+  I'm interested in Data Science, Machine Learning, Web Programming.
 </p>
 
 <p align="center">
