@@ -4,7 +4,7 @@
   <a href="https://aged-pram-301.notion.site/8ba16652a1a3401587c14a449296aca0">
     <img src="https://img.shields.io/badge/PortFolio-CDF0EA?style=flat-square&logo=GitHub Sponsors&logoColor=black">
   </a>
-  <a href="mailto:hhs28166139@gmail.com">
+  <a href="https://hyunse0.tistory.com/">
     <img src="https://img.shields.io/badge/Tech Blog-F6F5F5?style=flat-square&logo=Tistory&logoColor=black">
   </a>
 </p>
@@ -17,7 +17,7 @@
 
 ### :books: Education & Career
 
-- Samsung SW Academy For Youth (a.k.a. SSAFY) 7th Coach (2022.06 - Now)
+- Samsung SW Academy For Youth (a.k.a. SSAFY) 7th Coach (2022.06 - present)
 - Samsung SW Academy For Youth (a.k.a. SSAFY) 6th (2021.07 - 2022.06)
 - Machine learning-based Big Data Expert Course (2020.06 - 2020.08)
 - Chonnam National University, Bachelor of Oceanography (2015.03 - 2020.08)
