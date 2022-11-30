@@ -34,7 +34,7 @@
 | 2022.01 - 2022.02 |          Web          | [모각공](https://github.com/hyunse0/mogakgong) (Web RTC 기술을 활용한 온라인 독서실) |
 | 2021.11 - 2021.11 |          Web          | [Mood of Movie](https://github.com/hyunse0/Mood-of-Movie) (추천 알고리즘을 사용한 영화 커뮤니티) |
 | 2020.08 - 2020.08 | Machine<br />Learning | 여행만족도 및 여행객 수 분석을 통한 비인기 여행지 활성화 방안 |
-| 2020.07 - 2020.07 | Maching<br />Learning | Kaggle을 통한 주택가격예측                                   |
+| 2020.07 - 2020.07 | Machine<br />Learning | Kaggle을 통한 주택가격예측                                   |
 
 
 <br />
