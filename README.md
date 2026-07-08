@@ -1,23 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=FAF4B7&text=Hyunseo🐱‍💻&fontSize=50&fontColor=353535)
 
-<p align="center">
-  <a href="https://aged-pram-301.notion.site/8ba16652a1a3401587c14a449296aca0">
-    <img src="https://img.shields.io/badge/PortFolio-CDF0EA?style=flat-square&logo=GitHub Sponsors&logoColor=black">
-  </a>
-  <a href="https://velog.io/@hyunse0/">
-    <img src="https://img.shields.io/badge/Tech Blog-EFF8FB?style=flat-square&logo=velog&logoColor=#20C997">
-  </a>
-  <a href="https://hyunse0.tistory.com/">
-    <img src="https://img.shields.io/badge/(old) Blog-F6F5F5?style=flat-square&logo=Tistory&logoColor=black">
-  </a>
-</p>
-<p align="center">
-  Hi! I'm junior software developer currently programming for goverment web service. <br />
-  And I'm particularly interested in backend development. 😎 <br />
-  ___
-</p>
-
-
 
 ### :books: Education & Career
 
